@@ -2,11 +2,11 @@ def binSearchRec(data, low, high, target):
     if (low > high or low < 0 or high > len(data) - 1):
         return -1
 
-    mid = (low + high) / 2
-    mid = int(mid)
+    mid = (low + high) // 2
+    # mid = int(mid)
 
     if data[mid] == target:
-        return data[mid]
+        return mid
     elif (data[mid] < high):
         return binSearchRec(data, mid + 1, high, target)
     else:
@@ -14,6 +14,8 @@ def binSearchRec(data, low, high, target):
 
 
 def binSearch(data, target):
+    print(data)
+
     if (data is None):
         return -1
 
@@ -31,16 +33,16 @@ class BinarySearch:
             return -1
             pass
 
-        mid = (low + high) / 2
-        mid = int(mid)
+        mid = (low + high) // 2
+        # mid = int(mid)
 
         if data[mid] == target:
             return mid
 
         if data[mid] > target:
-            return self.binSearchRec(data, low, mid-1, target)
-        elif data[mid] < target :
-            return self.binSearchRec(data, mid+1, high, target)
+            return self.binSearchRec(data, low, mid - 1, target)
+        elif data[mid] < target:
+            return self.binSearchRec(data, mid + 1, high, target)
 
         pass
 
@@ -63,7 +65,9 @@ class BinarySearch:
 if __name__ == "__main__":
     data = [4, 5, 1, 2, 3]
     data.sort()
-    print(binSearch(data, 3))
+    print('target: ' , 3)
+    print('target index:' , binSearch(data, 3))
 
     bst = BinarySearch()
-    print(bst.binarySearch(5))
+    print('target: ' , 5)
+    print('target index:' , bst.binarySearch(5))
