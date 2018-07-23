@@ -4,6 +4,9 @@ def alphabetrec(num, result, list):
         return list;
 
     for i in range(0, int(num)):
+        if chr(97 + i) in result:
+            continue
+
         alphabetrec(num, result + chr(97 + i), list)
 
     return list

@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8070972b-e23e-4520-b6d0-d20ffc83158e" name="Default" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/recursive/Permutation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursive/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+>>>>>>> daf646a96962cbfa0aa4b0ccfa89ec404a5eb859
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +22,10 @@
     <SUITE FILE_PATH="coverage/codeSave_Python$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1532350444679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursive" />
     <SUITE FILE_PATH="coverage/codeSave_Python$BinarySearch.coverage" NAME="BinarySearch Coverage Results" MODIFIED="1532348290051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binarysearch" />
     <SUITE FILE_PATH="coverage/codeSave_Python$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1532350357251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/codeSave_Python$Permutation.coverage" NAME="Permutation Coverage Results" MODIFIED="1532351796061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursive" />
+=======
+>>>>>>> daf646a96962cbfa0aa4b0ccfa89ec404a5eb859
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -29,6 +38,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recursive/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,6 +53,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+=======
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/recursive/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="2" selection-end-column="36" />
+>>>>>>> daf646a96962cbfa0aa4b0ccfa89ec404a5eb859
             </state>
           </provider>
         </entry>
@@ -78,7 +95,10 @@
       <list>
         <option value="$PROJECT_DIR$/test/__init__.py" />
         <option value="$PROJECT_DIR$/recursive/__init__.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/recursive/Permutation.py" />
+=======
+>>>>>>> daf646a96962cbfa0aa4b0ccfa89ec404a5eb859
       </list>
     </option>
   </component>
@@ -148,7 +168,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.Permutation">
+=======
+  <component name="RunManager" selected="Python.__init__">
+>>>>>>> daf646a96962cbfa0aa4b0ccfa89ec404a5eb859
     <configuration name="BinarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codeSave_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,6 +192,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Permutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codeSave_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,6 +212,8 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+=======
+>>>>>>> daf646a96962cbfa0aa4b0ccfa89ec404a5eb859
     <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codeSave_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,11 +256,17 @@
       <item itemvalue="Python.BinarySearch" />
       <item itemvalue="Python.__init__" />
       <item itemvalue="Python.__init__ (1)" />
+<<<<<<< HEAD
       <item itemvalue="Python.Permutation" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Permutation" />
+=======
+    </list>
+    <recent_temporary>
+      <list>
+>>>>>>> daf646a96962cbfa0aa4b0ccfa89ec404a5eb859
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.__init__ (1)" />
         <item itemvalue="Python.BinarySearch" />
@@ -310,6 +343,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/recursive/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="270">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
@@ -319,6 +353,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+=======
+        <state relative-caret-position="15">
+          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="2" selection-end-column="36" />
+>>>>>>> daf646a96962cbfa0aa4b0ccfa89ec404a5eb859
         </state>
       </provider>
     </entry>
